@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfrun-legsJUMP.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leg 1 jump0000" x="0" y="91" width="189" height="85" frameX="-2" frameY="0" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0001" x="189" y="91" width="181" height="83" frameX="-4" frameY="-4" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0002" x="189" y="174" width="90" height="73" frameX="-33" frameY="-13" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0003" x="370" y="173" width="93" height="74" frameX="-31" frameY="-14" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0004" x="0" y="0" width="185" height="90" frameX="-2" frameY="-4" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0005" x="185" y="0" width="181" height="91" frameX="0" frameY="-8" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0006" x="370" y="87" width="104" height="86" frameX="-25" frameY="-12" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0007" x="366" y="0" width="103" height="87" frameX="-26" frameY="-12" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0008" x="0" y="91" width="189" height="85" frameX="-2" frameY="0" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0009" x="189" y="91" width="181" height="83" frameX="-4" frameY="-4" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0010" x="189" y="174" width="90" height="73" frameX="-33" frameY="-13" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0011" x="370" y="173" width="93" height="74" frameX="-31" frameY="-14" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0012" x="0" y="0" width="185" height="90" frameX="-2" frameY="-4" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0013" x="185" y="0" width="181" height="91" frameX="0" frameY="-8" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0014" x="370" y="87" width="104" height="86" frameX="-25" frameY="-12" frameWidth="191" frameHeight="99"/>
+	<SubTexture name="leg 1 jump0015" x="366" y="0" width="103" height="87" frameX="-26" frameY="-12" frameWidth="191" frameHeight="99"/>
+</TextureAtlas>
